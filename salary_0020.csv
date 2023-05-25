@@ -1589,8 +1589,7 @@ rank,name,position,team,salary,season
 61,Andre Miller, PG,Denver Nuggets,8100000,2006
 62,Bobby Simmons, SF,Milwaukee Bucks,8000000,2006
 63,Bonzi Wells, SG,Sacramento Kings,8000000,2006
-64,P.J. Brown, PF,"NO/Oklahoma City
- Hornets",8000000,2006
+64,P.J. Brown, PF,"NO/Oklahoma City Hornets",8000000,2006
 65,Austin Croshere, PF,Indiana Pacers,7900000,2006
 66,Lorenzen Wright, PF,Memphis Grizzlies,7700000,2006
 67,Erick Dampier, C,Dallas Mavericks,7662500,2006
@@ -1605,8 +1604,7 @@ rank,name,position,team,salary,season
 76,Adonal Foyle, C,Golden State Warriors,7312500,2006
 77,Darius Miles, SF,Portland Trail Blazers,7250000,2006
 78,Cuttino Mobley, SG,LA Clippers,7241379,2006
-79,Desmond Mason, SF,"NO/Oklahoma City
- Hornets",7233333,2006
+79,Desmond Mason, SF,"NO/Oklahoma City Hornets",7233333,2006
 80,Jonathan Bender, SF,Indiana Pacers,7175000,2006
 81,Kurt Thomas, PF,Phoenix Suns,7085919,2006
 82,Corey Maggette, SF,LA Clippers,7000000,2006
@@ -1694,8 +1692,7 @@ rank,name,position,team,salary,season
 164,Carmelo Anthony, PF,Denver Nuggets,3713640,2006
 165,Kyle Korver, SG,Philadelphia 76ers,3636364,2006
 166,Ben Gordon, SG,Chicago Bulls,3610200,2006
-167,Speedy Claxton, PG,"NO/Oklahoma City
- Hornets",3600000,2006
+167,Speedy Claxton, PG,"NO/Oklahoma City Hornets",3600000,2006
 168,Damon Jones, PG,Cleveland Cavaliers,3596924,2006
 169,Voshon Lenard, SG,Portland Trail Blazers,3520000,2006
 170,Bob Sura, PG,Houston Rockets,3520000,2006
@@ -1713,8 +1710,7 @@ rank,name,position,team,salary,season
 182,Pat Garrity, PF,Orlando Magic,3231250,2006
 183,Othella Harrington, PF,Chicago Bulls,3200000,2006
 184,Vladimir Radmanovic, SF,Seattle SuperSonics,3166154,2006
-185,Chris Paul, PG,"NO/Oklahoma City
- Hornets",3144240,2006
+185,Chris Paul, PG,"NO/Oklahoma City Hornets",3144240,2006
 186,Keyon Dooling, PG,Orlando Magic,3100000,2006
 187,Nene Hilario, C,Denver Nuggets,3039889,2006
 188,Dwyane Wade, G,Miami Heat,3031920,2006
@@ -1750,8 +1746,7 @@ rank,name,position,team,salary,season
 218,Eddie Griffin, PF,Minnesota Timberwolves,2500000,2006
 219,Damien Wilkins, SG,Seattle SuperSonics,2500000,2006
 220,Aaron McKie, SG,Los Angeles Lakers,2500000,2006
-221,Arvydas Macijauskas, SG,"NO/Oklahoma City
- Hornets",2500000,2006
+221,Arvydas Macijauskas, SG,"NO/Oklahoma City Hornets",2500000,2006
 222,Juan Dixon, SG,Portland Trail Blazers,2500000,2006
 223,Caron Butler, SF,Washington Wizards,2461617,2006
 224,Luol Deng, F,Chicago Bulls,2443920,2006
@@ -1815,18 +1810,14 @@ rank,name,position,team,salary,season
 282,Al Jefferson, C,Boston Celtics,1512840,2006
 283,Maurice Evans, SG,Detroit Pistons,1500000,2006
 284,Antoine Wright, SF,New Jersey Nets,1461360,2006
-285,Kirk Snyder, SG,"NO/Oklahoma City
- Hornets",1437240,2006
+285,Kirk Snyder, SG,"NO/Oklahoma City Hornets",1437240,2006
 286,Zarko Cabarkapa, SF,Golden State Warriors,1404360,2006
 287,Milt Palacio, PG,Utah Jazz,1400000,2006
 288,Joey Graham, SF,Toronto Raptors,1388400,2006
-289,David West, F,"NO/Oklahoma City
- Hornets",1334160,2006
+289,David West, F,"NO/Oklahoma City Hornets",1334160,2006
 290,Danny Granger, SF,Indiana Pacers,1318920,2006
-291,Rasual Butler, SF,"NO/Oklahoma City
- Hornets",1300000,2006
-292,JR Smith, SG,"NO/Oklahoma City
- Hornets",1297080,2006
+291,Rasual Butler, SF,"NO/Oklahoma City Hornets",1300000,2006
+292,JR Smith, SG,"NO/Oklahoma City Hornets",1297080,2006
 293,Sasha Pavlovic, SG,Cleveland Cavaliers,1274160,2006
 294,Gerald Green, SG,Boston Celtics,1253040,2006
 295,Dorell Wright, SF,Miami Heat,1238640,2006
@@ -1932,8 +1923,7 @@ rank,name,position,team,salary,season
 395,Jackie Butler, C,New York Knicks,641748,2006
 396,Justin Reed, SF,Minnesota Timberwolves,641748,2006
 397,Charlie Bell, SG,Milwaukee Bucks,641748,2006
-398,Jackson Vroman, PF,"NO/Oklahoma City
- Hornets",641748,2006
+398,Jackson Vroman, PF,"NO/Oklahoma City Hornets",641748,2006
 399,Earl Barron, C,Miami Heat,641748,2006
 400,Donta Smith, SG,Atlanta Hawks,641748,2006
 401,Bernard Robinson, SG,Charlotte Bobcats,641747,2006
@@ -1961,8 +1951,7 @@ rank,name,position,team,salary,season
 423,Boniface N'Dong, C,LA Clippers,398762,2006
 424,Anthony Roberson, SG,Memphis Grizzlies,398762,2006
 425,Alex Acker, G,Detroit Pistons,398762,2006
-426,Brandon Bass, PF,"NO/Oklahoma City
- Hornets",398762,2006
+426,Brandon Bass, PF,"NO/Oklahoma City Hornets",398762,2006
 427,Andre Owens, SG,Utah Jazz,398762,2006
 428,Lawrence Roberts, PF,Memphis Grizzlies,398762,2006
 429,Gerald Fitch, G,Miami Heat,398762,2006
