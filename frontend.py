@@ -15,7 +15,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.preprocessing import MinMaxScaler, PolynomialFeatures, StandardScaler
 from sklearn.svm import OneClassSVM
-
+import pickle
 
 # Constants
 TRAINING_YEAR = 2015
@@ -163,6 +163,8 @@ def linear_model():
 
 if __name__ == '__main__':
     scaler, model = linear_model()
+    pickle.dump(model, open('linear_model', 'wb'))
+    pickle.dump(scaler, open('linear_scaler', 'wb'))
 
     while True:
         # Get input from front-end
