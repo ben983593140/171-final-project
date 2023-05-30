@@ -22,7 +22,7 @@ TRAINING_YEAR = 2015
 TESTING_YEAR = 2017
 ATTRIBUTE_SIZE = 6
 
-def get_model():
+def linear_model():
     # We might not need player_data.csv and players.csv since they are personal information that we can not make use of
     salary_20 = pd.read_csv("salary_0020.csv")
     salary_17 = pd.read_csv("salary_1718.csv")
@@ -162,7 +162,7 @@ def get_model():
     return scaler, model
 
 if __name__ == '__main__':
-    scaler, model = get_model()
+    scaler, model = linear_model()
 
     while True:
         # Get input from front-end
