@@ -164,7 +164,9 @@ def get_model():
 if __name__ == '__main__':
     scaler, model = get_model()
 
-    attributes = None
+    while True:
+        # Get input from front-end
+        attributes = None
 
-    data = scaler.transform(attributes)
-    prediction = model.predict(data)
+        data = scaler.transform(attributes)
+        prediction = model.predict(data)
