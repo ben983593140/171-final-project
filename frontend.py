@@ -146,7 +146,7 @@ def linear_model():
     df_salary = data.copy()
     salary_train, salary_test = train_test_split(df_salary, test_size=0.2)
     X_salary_train, y_salary_train = salary_train[relevant_attributes], salary_train['salary']
-
+    print(type(X_salary_train))
     # Scale the data, but keep the original salary because we need to get the actual prediction
     scaler = StandardScaler()
     scaler.fit(X_salary_train)
