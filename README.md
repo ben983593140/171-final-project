@@ -29,9 +29,18 @@ FG - Field Goals Made
 Definition: The number of 2-pointers and 3-pointers a player made that season.
 range: between 0 - 900
 
-Instructions:
+# Instructions
+
+## Front-end demo
 
 Make sure there is `model` and `scaler` file under the folder. By defult they are provided, but you can run `polynomial_regressor.ipynb` to get these two files. They are ML models and scaler that we use pickle to store them locally for front-end page to run them.
 
+Since we used flask, you would have to have the latest version of flask installed.
+When in the project directory, run "flask --app app run". This will pull up the 
+local host server where you can input the data and allow it to fetch.
+
 Just enter the range corresponding to each catagory and hit submit to find the salray prediction!
 
+## Code that we used to to write the report
+
+We separated our models into three files: `classifiers.ipynb`, `mlp_regressor.ipynb` and `polynomial_regressor.ipynb`. Running each file from the beginning should produce
