@@ -39,7 +39,7 @@ Since we used flask, you would have to have the latest version of flask installe
 When in the project directory, run "flask --app app run". This will pull up the 
 local host server where you can input the data and allow it to fetch.
 
-Just enter the range corresponding to each catagory and hit submit to find the salray prediction!
+Just enter the range corresponding to each catagory and hit submit to find the salray prediction! The result is visible on the console instead of the webpage, which is definitely our mistake.
 
 ## Code that we used to to write the report
 
